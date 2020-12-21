@@ -1,3 +1,5 @@
+# This script sets up a quantum circuit to load an NEQR quantum image with four pixels with 8-bit grayscale values
+#
 from qiskit import QuantumRegister, ClassicalRegister, QuantumCircuit
 from numpy import pi
 
