@@ -9,6 +9,6 @@ https://www.researchgate.net/publication/257641933_NEQR_A_novel_enhanced_quantum
 
 **NEQR_example_4_pixel_8bpp.py**
 
-The example from the paper with 4 pixels of 8 bits per pixel grayscale (after Espresso boolean simplification):
+The example from the paper to load 4 pixels of 8 bits per pixel grayscale into NEQR representation (with Espresso boolean simplification of the circuit):
 
 ![4 pixel 8 bpp NEQR circuit diagram](4pixel_8bpp.png)
