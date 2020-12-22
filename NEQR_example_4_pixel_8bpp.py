@@ -30,6 +30,9 @@ circuit.cx(qreg_q[9], qreg_q[4])
 circuit.cx(qreg_q[8], qreg_q[5])
 circuit.ccx(qreg_q[8], qreg_q[9], qreg_q[6])
 circuit.ccx(qreg_q[8], qreg_q[9], qreg_q[7])
+#
+# Measure
+#
 circuit.measure(qreg_q[0], creg_c[9])
 circuit.measure(qreg_q[1], creg_c[8])
 circuit.measure(qreg_q[2], creg_c[7])
